@@ -281,7 +281,7 @@ Nhóm 12 — Lớp CQ2023/12:
 
 | MSSV | Họ và tên | Vai trò trong nhóm |
 |---|---|---|
-| 21120089 | Trần Đăng Khoa | _(điền A/B/C/D/E)_ |
+| 21120089 | Trần Đăng Khoa | _C_ |
 | 21120595 | Nguyễn Thành Vinh | _A_ |
 | 23120102 | Nguyễn Ngọc Minh Tuấn | _B_ |
 | 23122050 | Nguyễn Tấn Tài | _D_ |
